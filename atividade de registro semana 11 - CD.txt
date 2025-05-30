@@ -1,0 +1,20 @@
+ATIVIDADE DE REGISTRO SEMANA 11 - CD
+
+1) Quais os sistemas operacionais mais usados no mercados? E quais suas características?
+
+2) Quais os sistemas de arquivos e suas características?
+
+3) Quais são as principais diferenças nos recursos de 
+gerenciamento de memória e processamento entre 
+os sistemas operacionais mais utilizados?
+Seminário sobre sistemas 
+operacionais mais utilizados 
+no mercado
+
+4) Como cada sistema operacional atende a diferentes 
+tipos de usuários e casos de uso, e quais são as 
+aplicações mais significativas para cada um?
+
+5) Qual é o papel das comunidades de desenvolvimento 
+e do modelo de licenciamento na trajetória de 
+sucesso de um sistema operacional?
